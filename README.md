@@ -1,5 +1,10 @@
 ### Our dawn is hotter than day 🌠
 
+Favorite Song
+[세븐틴 - 우리의 새벽은 낮보다 뜨겁다](https://www.youtube.com/watch?v=Og5i1LcnPWk)
+[데이식스 - 혼잣말](https://www.youtube.com/watch?v=Pys30WHgudQ)
+
+
 <!--
 **shinyo17/shinyo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
