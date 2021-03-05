@@ -9,6 +9,8 @@ Favorite Song
 [데이식스 - 혼잣말](https://www.youtube.com/watch?v=Pys30WHgudQ)
 
 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=shinyo17)](https://solved.ac/shinyo17)
 <!--
 **shinyo17/shinyo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
