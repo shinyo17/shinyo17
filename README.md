@@ -7,6 +7,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinyo17&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=shinyo17)](https://solved.ac/shinyo17)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinyo17)](https://github.com/anuraghazra/github-readme-stats)
