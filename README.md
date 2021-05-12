@@ -1,7 +1,11 @@
+<div align=center>
+
 ### Our dawn is hotter than day 🌠
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=shinyo17)](https://solved.ac/shinyo17)
+
+</div>
 <!--
 **shinyo17/shinyo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
