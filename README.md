@@ -1,7 +1,7 @@
 <div align=center>
 
 ### Our dawn is hotter than day 🌠
-
+#### SHINYO17
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=shinyo17)](https://solved.ac/shinyo17)
 
